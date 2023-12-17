@@ -1,1 +1,2 @@
 # Housing-Market-Data-Exploration-and-Manipulation-Exercise-
+All the information about the explanation of the case is in the "Case Study" file. There are 4 datasets to be used for this exercise which are Sales, Improvements, Residential Building, Assessments. All the datasets are attached in csv format. The "Code" file includes all the data exploration and manipulation process that's required in this exercise. 
